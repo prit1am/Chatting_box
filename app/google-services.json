@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59784402122",
+    "project_id": "chatting-box-f9040",
+    "storage_bucket": "chatting-box-f9040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59784402122:android:d865d6a1d01c5c70d9d033",
+        "android_client_info": {
+          "package_name": "com.example.chatting_box"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_lzHx2kAspknh2N-gf9cgZqpQRvPUdIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
